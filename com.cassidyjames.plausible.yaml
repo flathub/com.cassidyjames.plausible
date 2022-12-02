@@ -15,5 +15,5 @@ modules:
     sources:
       - type: git
         url: https://github.com/cassidyjames/plausible.git
-        tag: 2.0.1
-        commit: af5071fd42a14fbdc8869a3a1e0ef1753eeefdb0
+        tag: 2.0.2
+        commit: 411d84beb276f1410842b6f47b1b54e9fc362b6c
