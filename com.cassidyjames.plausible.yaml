@@ -10,10 +10,9 @@ finish-args:
   - --share=ipc
   - --device=dri
 modules:
-  - name: plausible
+  - name: tally
     buildsystem: meson
     sources:
       - type: git
-        url: https://github.com/cassidyjames/plausible.git
-        tag: 2.1.0
-        commit: 1f9b33b8f85a6e95fe6492ee108de3c67bd8e06e
+        url: https://github.com/cassidyjames/tally.git
+        commit: a590a88366dafaf7ccc6d19920582744cadf6c78
