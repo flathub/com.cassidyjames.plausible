@@ -14,5 +14,6 @@ modules:
     buildsystem: meson
     sources:
       - type: git
+        tag: 3.0.0
         url: https://github.com/cassidyjames/tally.git
-        commit: a590a88366dafaf7ccc6d19920582744cadf6c78
+        commit: 5162d3c5eb7440fb2da949748ea65c47c3cd32ce
