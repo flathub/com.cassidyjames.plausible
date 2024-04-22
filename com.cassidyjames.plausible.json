@@ -3,7 +3,7 @@
   "runtime": "org.gnome.Platform",
   "runtime-version": "46",
   "sdk": "org.gnome.Sdk",
-  "command": "com.cassidyjames.butler",
+  "command": "com.cassidyjames.tally",
   "finish-args": [
     "--socket=wayland",
     "--socket=fallback-x11",
