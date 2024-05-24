@@ -19,8 +19,8 @@
         {
           "type": "git",
           "url": "https://github.com/cassidyjames/tally.git",
-          "tag": "3.1.0",
-          "commit": "f354694fedee67faabbfadecdb427c85c4f4c8d2",
+          "tag": "3.2.0",
+          "commit": "58d237b2089663f0c08274d95007f1664385f577",
           "x-checker-data": {
             "is-main-source": true,
             "type": "git",
