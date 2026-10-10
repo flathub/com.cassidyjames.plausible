@@ -1,7 +1,7 @@
 {
   "app-id": "com.cassidyjames.plausible",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "49",
+  "runtime-version": "51",
   "sdk": "org.gnome.Sdk",
   "command": "com.cassidyjames.plausible",
   "finish-args": [
@@ -19,8 +19,8 @@
         {
           "type": "git",
           "url": "https://github.com/cassidyjames/tally.git",
-          "tag": "3.2.1",
-          "commit": "735caa788351fcb0a135caa0e83a0c12c687ea90",
+          "tag": "3.3.0",
+          "commit": "141a1893cf48ebc0733829d5f95b06b51459b670",
           "x-checker-data": {
             "is-main-source": true,
             "type": "git",
